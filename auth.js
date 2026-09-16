@@ -23,3 +23,4 @@ function login(username, password) {
 if (typeof module !== "undefined") {
     module.exports = { login };
 }
+// Authentication logic for VLU Software Testing
